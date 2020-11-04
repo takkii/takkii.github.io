@@ -17,20 +17,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: hakoirimusume project pages.
-email: karuma.reason@nyasocom.work
+title: Piece of Ruby Shop.
+author:
+  title: Piece of Ruby Shop. 
+  name: Takayuki, Kamiyama.
+  email: karuma.reason@nyasocom.work
 description: >- # this means to ignore newlines until "baseurl:"
   このページは箱入り娘プロジェクトのサポートページを作り替えました。
-  今後は、OSS活動の状況や雑談、追記などを記事にしていきます。
-  よりモダンにページも変わっていきます。
+  今後は、OSS活動や有償アプリの近況や雑談、追記などを記事にしていきます。
+  よりモダンにページも変わっていきます。革新的に、より現実に革命を。
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: takkii
-github_username: takkii
-
 # Build settings
 theme: minima
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+  social_links:
+    twitter: takkii
+    github: takkii
+
 plugins:
   - jekyll-feed
 # Exclude from processing.
