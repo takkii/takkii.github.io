@@ -24,16 +24,6 @@ jekyll build
 
 #### 追記
 
-> ./favicon.ico
+[未公開記事](https://qiita.com/takkii/private/6829ad3899f7f2451e8b)
 
-> takkii.github.io/favicon.ico (フォルダ構成)
-
-```markdown
-icoファイルをfaviconとrenameし、
-
-フォルダ構成の通りに設置すると、
-
-faviconが設置できます。
-```
-
-更新 : 令和2年11月3日16時21分
+更新 : 時刻を表示 : 2020年11月9日
