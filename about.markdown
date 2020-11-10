@@ -8,7 +8,7 @@ permalink: /about/
 
 > 今年で OSS 活動 13 周年です。活動内容は下記リンクより...
 
-| [GitLab](https://gitlab.com/nekoja) | [サポート](https://takkii.github.io/) | [環境構築](https://takkii.hatenablog.com/) | [リリース](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [プロフィ](https://profile.hatena.ne.jp/emerald00/) | [RSS アンテナ](https://standb.herokuapp.com/) | [スポンサー](https://github.com/sponsors/takkii) | [欲しいもの](https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1) |
+| [GitLab](https://gitlab.com/nekoja) | [environment](https://takkii.hatenablog.com/) | [release](https://rubyist.hatenablog.com/) | [Vector](https://www.vector.co.jp/vpack/browse/person/an060630.html) | [Qiita](https://qiita.com/takkii) | [profile](https://profile.hatena.ne.jp/emerald00/) | [API](https://standb.herokuapp.com/) | [sponsors](https://github.com/sponsors/takkii) | [wishlist](https://www.amazon.co.jp/registry/wishlist/7KHDJADOEBVH/ref=cm_sw_r_cp_ep_ws_X69MAb6D1PQZ1) |
 
 #### 今後、メッセージを追記して充実させていきます。
 
