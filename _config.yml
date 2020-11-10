@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: hakoirimusume project pages.
-email: karuma.reason@nyasocom.work
+email: karuma.reason@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   このページは箱入り娘プロジェクトのサポートページを作り替えました。
   今後は、OSS活動の状況や雑談、追記などを記事にしていきます。
