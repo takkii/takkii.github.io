@@ -18,10 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Piece of Ruby Shop.
-author:
-  title: Piece of Ruby Shop. 
-  name: Takayuki, Kamiyama.
-  email: karuma.reason@gmail.com
+email: karuma.reason@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   このページは箱入り娘プロジェクトのサポートページを作り替えました。
   今後は、OSS活動や有償アプリの近況や雑談、追記などを記事にしていきます。
@@ -29,13 +27,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
-theme: minima
-minima:
-  skin: dark
-  date_format: "%b %-d, %Y"
-  social_links:
-    twitter: takkii
-    github: takkii
+# theme: minima
+
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 
 plugins:
   - jekyll-feed
@@ -58,3 +54,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true

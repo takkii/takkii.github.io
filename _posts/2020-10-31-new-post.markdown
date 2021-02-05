@@ -1,13 +1,22 @@
 ---
-layout: post
+layouts: default
 title: "Jekyllを使います。"
 date: 2020-10-31 17:34:26 +0900
 categories: jekyll update
 ---
 
-### 新しく GitHub ページを更新しました。
-
-_これから内容を追加していきます_
+<br />
+<br />
+<div style="text-align: center;">
+<h1>新しく GitHub ページを更新しました。</h1>
+<br />
+<br />
+<h3> 11 月は、継続したいことと方向性をもって進んでいきます。</h3>
+<br />
+<br />
+<p><i>これから内容を追加していきます</i></p>
+<br />
+</div>
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
