@@ -67,3 +67,6 @@ defaults:
       type: posts
     values:
       show_date: true
+
+# ---- fixed github metadata authentication bug ----
+github : [metadata]
