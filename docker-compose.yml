@@ -3,7 +3,7 @@ services:
   web:
     build: .
     command: >
-      bash -c 'bundle exec jekyll serve --host=0.0.0.0'
+      bash -c 'bundle exec jekyll serve --force_polling --host=0.0.0.0'
     volumes:
       - .:/takkii.github.io
       - bundle:/usr/local/bundle
