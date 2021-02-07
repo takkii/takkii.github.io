@@ -28,6 +28,7 @@ RUN rbenv rehash
 
 FROM ruby:2.7
 RUN echo 'export RUBYOPT='-W:no-deprecated -W:no-experimental'' >> ~/.bashrc
+ENV RUBYOPT -W:no-deprecated -W:no-experimental
 
 # install
 RUN git clone https://github.com/takkii/takkii.github.io.git
