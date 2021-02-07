@@ -28,9 +28,8 @@ Dcokerコンテナ環境構築
 docker-compose build
 
 docker-compose up
-
-起動確認
-http://localhost:4000/
 ```
+
+[起動確認 -> localhost:4000](http://localhost:4000/)
 
 #### 時刻を表示 : 2021-02-07 15:43:49 +0900
