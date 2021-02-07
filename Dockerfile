@@ -32,7 +32,7 @@ FROM ruby:2.7
 RUN git clone https://github.com/takkii/takkii.github.io.git
 WORKDIR /takkii.github.io
 COPY . /takkii.github.io
-RUN bundle install
+RUN bundle update
 
 EXPOSE 4000
 

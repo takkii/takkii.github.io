@@ -2,7 +2,8 @@ version: '3'
 services:
   web:
     build: .
-    command: bundle exec jekyll serve --host=0.0.0.0
+    command: >
+      bash -c 'bundle exec jekyll serve --host=0.0.0.0'
     volumes:
       - .:/takkii.github.io
       - bundle:/usr/local/bundle
