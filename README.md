@@ -22,4 +22,15 @@ jekyll build
 ... ローカル確認後、デフォルトブランチへ反映
 ```
 
-#### 更新 : 時刻を表示 : 2020年11月9日
+Dcokerコンテナ環境構築
+
+```markdown
+docker-compose build
+
+docker-compose up
+
+起動確認
+http://localhost:4000/
+```
+
+#### 時刻を表示 : 2021-02-07 15:43:49 +0900
