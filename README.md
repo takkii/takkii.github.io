@@ -37,7 +37,7 @@ ruby-2.7 ○ ( 起動 )
 pathutil.rb:502: warning: Using the last argument as keyword parameters is deprecated
 
 ruby-3.0 × ( 停止 )
-pathutil.rb:502:in `read': no implicit conversion of Hash into Integer
+pathutil.rb:502:in `read': no implicit conversion of Hash into Integer`
 
 ruby-2.6 × ( 停止 )
 Could not find commonmarker-0.17.13 in any of the sources (Bundler::GemNotFound)
