@@ -20,7 +20,7 @@ ENV RUBYOPT -EUTF-8
 FROM ruby:2.7
 
 # install
-RUN git clone https://github.com/takkii/takkii.github.io.git
+RUN git clone -b develop https://github.com/takkii/takkii.github.io.git
 WORKDIR /takkii.github.io
 COPY . /takkii.github.io
 RUN bundle install
