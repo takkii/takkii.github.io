@@ -34,3 +34,4 @@ heroku では公開せず、VPS を想定しています。<br />
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com
+[問い合わせ]: https://takkii.github.io/page3.html
