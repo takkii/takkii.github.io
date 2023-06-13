@@ -1,0 +1,24 @@
+---
+layouts: default
+title: "11月が始まりました。"
+date: 2020-11-01 17:54:40 +0900
+categories: jekyll update
+---
+
+<br />
+<br />
+<div style="text-align: center;">
+<h1>長い 10 月が終わり、11 月が始まりました。</h1>
+<br />
+<br />
+<h3> 11 月は、継続したいことと方向性をもって進んでいきます。</h3>
+<br />
+<br />
+<p><i>※ 短文ですが、追記するかもしれません。</i></p>
+<br />
+</div>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com
+[問い合わせ]: https://takkii.github.io/page3.html
