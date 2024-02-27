@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 # use ruby version
-ruby '2.7.8'
+# ruby '2.7.8'
+ruby '3.0.6'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -28,6 +29,8 @@ group :jekyll_plugins do
 end
 
 gem 'webrick'
+gem 'faraday-retry'
+gem 'nokogiri', '~> 1.16.2'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
