@@ -6,7 +6,7 @@ categories: myself profile
 
 ---
 
-
+<br />
 
 <div style="text-align: center;">
 <h1>自己紹介📋</h1>
@@ -16,4 +16,3 @@ categories: myself profile
     <p>現在はフリーランスのバックエンドエンジニアとして活動中。
     </p><p>5類に引き下げも依然としてコロナ禍もあり、行動範囲を限定しながら理想に邁進中。</p>
 </div>
-
