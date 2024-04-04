@@ -37,4 +37,6 @@ categories: myself license
 
 - 英語検定 4級
 
-※ など、介護系や特別教育などは省略しました。
+_※ 介護系や特別教育などは省略しました。_
+
+<a href="https://takkii.github.io/">戻る</a>
