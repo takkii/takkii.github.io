@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
 
 # use ruby version
-# ruby '2.7.8'
-ruby '3.0.6'
+ruby '3.0.7'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
