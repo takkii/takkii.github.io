@@ -3,7 +3,7 @@ FROM ubuntu:bionic
 # mkdir users
 LABEL maintainer="Takayuki Kamiyama <karuma.reason@gmail.com>"
 # build package
-RUN apt-get update && apt-get install -y \ 
+RUN apt-get update && apt-get install -y \
 git ruby-dev sqlite3 libxslt1-dev libxml2-dev build-essential patch \
 libsqlite3-dev libcurl4-openssl-dev curl nodejs && apt-get clean
 
