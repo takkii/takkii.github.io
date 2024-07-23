@@ -1,7 +1,7 @@
 ---
 layouts: default
-title: 免許🚗
-date: 2024-04-04 11:23:42 +0900
+title: 免許 🚗
+date: 2024-07-23 12:43:18 +0900
 categories: myself license
 
 ---
@@ -37,6 +37,9 @@ categories: myself license
 
 - 英語検定 4級
 
-_※ 介護系や特別教育などは省略しました。_
+_※ 以上を保有しています。他に、介護関連や特別教育などは省略しました。_
 
-<a href="https://takkii.github.io/">戻る</a>
+<div style="text-align: right;">
+  <p>更新日 : 2024/07/23</p>
+  <a href="https://takkii.github.io/">戻る</a>
+<div style="text-align: right;">
