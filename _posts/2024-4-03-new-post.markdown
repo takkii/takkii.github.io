@@ -15,10 +15,6 @@ categories: myself profile
 　<p>会社都合の退職により失業中に職業訓練校の電気工事科に通い、勉学に励み校長賞を受賞</p>
 　<p>現在、フリーランスのプログラマーとして活動中。主に、Ruby/TypeScriptを書いている。</p>
 　<p>依然としてコロナ禍もあり、受託開発できる場所を持ちつつOSS活動を継続中。</p>
-</div>
-
-<div style="text-align: right;">
-    <p>更新日 : 2024/07/23</p>
-    <a href="https://takkii.github.io/">戻る</a>
+  <p>更新日 : 2024/07/23 / <a href="https://takkii.github.io/">戻る</a></p>
 </div>
 
