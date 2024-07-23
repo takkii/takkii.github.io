@@ -8,7 +8,7 @@ categories: myself license
 
 <br />
 
-####  電気工学・電子工学
+#### 電気工学・電子工学
 
 - 第2種電気工事士
 - 技能検定 3級電子機器組立て技能士
@@ -19,9 +19,7 @@ categories: myself license
 
 - コンピュータサービス技能評価試験 ワープロ部門 2級 取得 2級ワープロ技士
 
-- サーティファイ PowerPointプレゼンテーション技能認定試験 初級
-
-- サーティファイ PowerPointプレゼンテーション技能認定試験 上級
+- サーティファイ PowerPointプレゼンテーション技能認定試験 初級 / 上級
 
 #### プログラミング
 
@@ -39,7 +37,6 @@ categories: myself license
 
 _※ 以上を保有しています。他に、介護関連や特別教育などは省略しました。_
 
-<div style="text-align: right;">
-  <p>更新日 : 2024/07/23</p>
-  <a href="https://takkii.github.io/">戻る</a>
-<div style="text-align: right;">
+##### 更新日 : 2024/07/23
+
+[戻る](https://takkii.github.io)
