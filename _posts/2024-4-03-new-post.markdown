@@ -11,11 +11,11 @@ categories: myself profile
 <div style="text-align: center;">
 <h1>自己紹介📋</h1>
 <br />
-　<p>地方の大学を中途退学後、販売職等を経験。東京の専門学校でRubyに出会う。</p>
-　<p>会社都合の退職により失業中に職業訓練校の電気工事科に通い、勉学に励み校長賞を受賞</p>
-　<p>現在、フリーランスのプログラマーとして活動中。主に、Ruby/TypeScriptを書いている。</p>
-　<p>依然としてコロナ禍もあり、受託開発できる場所を持ちつつOSS活動を継続中。</p>
+　<p>地方の大学を中途退学後、販売員を経験しました。東京の専門学校でRubyに出会いました。</p>
+　<p>会社都合の退職により失業中に職業訓練校の電気工事科に通い、勉学に励み校長賞を受賞しました。</p>
+　<p>Rubyの資格を取得後、フリーランスRubyプログラマーとしてGitHubでOSS活動中です。</p>
+　<p>Neovimで動作するデバッガー、nvim-dapとrubygems/debugを利用したneoruby-debuggerを書きました。</p>
 <br />
-  <p>更新日 : 2024/07/23 / <a href="https://takkii.github.io/">戻る</a></p>
+  <p>更新日 : 2024/08/29 / <a href="https://takkii.github.io/">戻る</a></p>
 </div>
 
