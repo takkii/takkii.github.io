@@ -1,4 +1,4 @@
-### takkii.github.io
+### 人生も折り返し地点。資格で人の価値は決まらない。
 
 > Piece of Ruby Shop
 
