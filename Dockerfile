@@ -26,7 +26,7 @@ RUN echo 'eval "export LANG"' >> ~/.bashrc
 ENV RUBYOPT -EUTF-8
 
 # ruby
-FROM ruby:3.2
+FROM ruby:3.3.6
 
 # install
 RUN git clone -b develop https://github.com/takkii/takkii.github.io.git
