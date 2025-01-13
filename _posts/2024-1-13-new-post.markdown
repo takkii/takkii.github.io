@@ -1,0 +1,23 @@
+---
+layouts: default
+title: 活動履歴 📋
+date: 2025-01-13 12:39:53 +0900
+categories: biography
+
+---
+
+<br />
+
+<div style="text-align: center;">
+<h1>活動履歴🗾</h1>
+<br />
+　<p>・登録IPアドレス認証の動作検証をしました。</p>
+　<p>・GitLabに登録していたプロジェクトをGitHubに移行しました。</p>
+　<p>・youtube、動作検証結果の動画をアップロードしました。</p>
+　<p>・neovim、javascriptデバッガーの動作確認、失敗でした。</p>
+　<p>・SublimeDebugger、nodejsの設定ファイルを書きました。動作不良でした。</p>
+　<p>・SublimeDebugger、rubyの設定ファイルを書きました。動作不良でした。</p>
+<br />
+  <p>更新日 : 2025/01/13 / <a href="https://takkii.github.io/">戻る</a></p>
+</div>
+
