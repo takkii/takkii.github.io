@@ -1,0 +1,26 @@
+---
+layouts: default
+title: 活動履歴 📋
+date: 2025-01-27 17:09:33 +0900
+categories: biography
+
+---
+
+<br />
+
+<div style="text-align: center;">
+<h1>変更履歴🗾</h1>
+<br />
+　<p>・登録IPアドレス認証の動作検証をしました。</p>
+　<p>・GitLab、登録していたプロジェクトをGitHubに移行しました。</p>
+　<p>・youtube、動作検証結果の動画をアップロードしました。</p>
+　<p>・GitHub、過去プロジェクトをアーカイブ化しました。</p>
+　<p>・プロフィール、nonoichi cityを削除しishikawa prefのみにしました。</p>
+　<p>・プロフィール、自己紹介文と一言を更新しました。</p>
+  <p>・GitHub、最近プロジェクトkindness、overlapをアーカイブ化しました。</p>
+  <p>・プロジェクトの大きな変更を終えました。顔認証にむけて開発中です。</p>
+  <p>・javascrip、主要プロジェクトを移行する計画に取り掛かっています。</p>
+<br />
+  <p>更新日 : 2025/01/27 / <a href="https://takkii.github.io/">戻る</a></p>
+</div>
+
