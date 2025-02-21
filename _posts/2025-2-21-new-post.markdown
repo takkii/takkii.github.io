@@ -1,0 +1,23 @@
+---
+layouts: default
+title: 変更履歴 📋
+date: 2025-02-21 18:46:26 +0900
+categories: biography
+
+---
+
+<br />
+
+<div style="text-align: center;">
+<h1>変更履歴🗾</h1>
+<br />
+　<p>登録IPアドレス認証の動作検証をしました。</p>
+　  GitLab、登録していたプロジェクトをGitHubに移行しました。
+　  <p>youtube、動作検証結果の動画をアップロードしました。</p>
+  　GitHub、制作プロジェクトに対し凍結をアーカイブ化/継続をアーカイブ解除しました。
+    <p>nyaosocm_sun_pg_win、大きな変更を終えました。定期メンテナンスと実験的機能のテスト先です。</p>  
+    <p>nyasocom_yon、(フロント・バック)フルスタックの機能開発、仕様策定中です。</p>
+<br />
+  <p>更新日 : 2025/02/21 <a href="https://takkii.github.io/">戻る</a></p>
+</div>
+
