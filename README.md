@@ -1,5 +1,5 @@
-### 人生も折り返し地点。資格で人の価値は決まらない。
+### Piece of Ruby Shop
 
-> Piece of Ruby Shop
+※ キャッチフレーズです。特に意味はありません。
 
-_※ キャッチフレーズです。特に意味はありません。_
+開発環境は、[こちら](https://github.com/takkii/takkii.github.io/wiki/manual)から。
