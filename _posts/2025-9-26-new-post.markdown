@@ -1,0 +1,24 @@
+---
+layouts: default
+title: 趣味を満喫しています🎲
+date: 2025-09-26 09:02:41 +0900
+categories: biography
+
+---
+
+<br />
+
+<div style="text-align: center;">
+<h1>趣味を満喫しています。</h1>
+    <p>フリーランス時代、培った技術を大事に管理しています。</p>
+    <p></p>
+    <p>技術的負債と向き合い続けるOSS活動をしています。</p>
+    <p></p>
+    <p>現在、開発元(GitLab)と公開先(GitHub)を分岐し作業しています。</p>
+    <p></p>
+    <p>慈善事業を終了します。Ruby/Railsで個人的にやるべきことは完遂しました。</p>
+    <p></p>
+    <p>今、とても人生を楽しんでいます。</p>
+    <p></p>
+  <p>更新日 : 2025/09/26 /  <a href="https://takkii.github.io/">戻る</a></p>
+</div>
