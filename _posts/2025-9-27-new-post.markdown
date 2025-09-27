@@ -1,0 +1,42 @@
+---
+layouts: default
+title: 今後の活動方針⚓️
+date: 2025-09-27 13:29:27 +0900
+categories: biography
+---
+
+<br />
+
+### 今後の活動方針⚓️
+
+- バージョンアップ/アップブレード対応に伴う定期メンテナンスのみになります。
+
+> ※ Ruby3/Ruby on Rails8/Rubygems依存ライブラリ/Python3などが対象です。
+
+```ruby
+require 'date'
+require 'tanraku'
+
+class WatchDate
+  attr_reader :app
+  
+  def initialize
+    @app = Time.now
+  end
+
+  def remove
+    remove_instance_variable(:@app)
+  end
+end
+
+begin
+  puts WatchDate.new.remove
+rescue StandardError => e
+  puts e.backtrace
+  tanraku_execute
+ensure
+  GC.auto_compact
+end
+```
+
+※ 上記、プロジェクトで使っている日付表示プログラムです。

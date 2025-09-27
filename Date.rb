@@ -1,10 +1,11 @@
 require 'date'
+require 'tanraku'
 
 class WatchDate
   attr_reader :app
   
   def initialize
-    @app = puts Time.now
+    @app = Time.now
   end
 
   def remove
@@ -14,11 +15,12 @@ end
 
 # About Exception, begin ~ rescue ~ ensure.
 begin
-  WatchDate.new.remove
+  puts WatchDate.new.remove
 rescue StandardError => e
   puts e.backtrace
+  tanraku_execute
 ensure
-  GC.compact
+  GC.auto_compact
 end
 
 # _posts date timestamp
